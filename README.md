@@ -18,8 +18,9 @@
 - 更新酒店：
 请提升线路1，第二天的酒店品质。
 
+<img width="638" height="1650" alt="image" src="https://github.com/user-attachments/assets/299e366f-9ef8-48a7-961a-b091b5506589" />
 
-用法演示：https://t.kainy.cn/jdmcp
+详细演示：https://t.kainy.cn/jdmcp
 
 ## 📦 安装和配置
 
